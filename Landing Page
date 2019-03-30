@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Tribute Page of Lagos</title>
+</head>
+<link rel="stylesheet" type="text/css" href="style.css">
+<body>
+	<div id="main">
+		<h1 id="title">Lagos City</h1>
+		<div>The city that never sleeps</div>
+		<div id="img-div">
+			<img id="image" src="https://www.nairaland.com/attachments/5003765_image_jpeg_jpeg6f95b5e7a24ad4fc0808d6698fd37362" alt="pic of carter bridge" class="img-responsive">
+			<div id="img-caption">An aerial view of the famous Lekki-Eko bridge at night, connecting Lagos mainland and island.</div>
+		</div>
+		<div id="tribute-info">
+			<ul>
+				<h3 id="headline">Brief Timeline of Lagos City</h3>
+				<li><strong>1400AD: PEACE TREATY</strong>
+				At some point in the 14<sup>th</sup> century, the immersive Benin Empire was a real dominant force to reckon with. The Oba of the Benin Empire, received a formal complaint submitted to him about disturbances along the trade routes. On hearing this, the king sent a sea expectation to the coast of Lagos to take the city under the Empire. But the Aworis declined and failed to engage the force of the Benin which consisted chiefly of traders. The Oba then acted by again sending a war fleet frontier commanded by a prince to request explanation for refusal to engage. The two tribes later reached a material agreement for the Benin prince to be the leader that quelled the violence.</li><br>
+				<li><strong>1472: LAGO DE KURAMO</strong>
+				Created in 1472 by the Portuguese explorer RUI DE Sequiera, when he visited the city as one of the slave trade stops in west Africa .RUI de sequiera reached the coast of present Nigeria in 1472. He was baptized in the lagoon in Lagos and give it the name LAKE WE HEAL and later the name of the city he called LAGOS.</li><br>
+				<li><strong>1502: SLAVE TRADE MARKET ESTABLISHED</strong>
+				The iconic vlekete market in Badagry was established in 1502; the slaves market got its supplies from hinter land as far as Umuahia(present day Abia state). The market was the biggest on the coast, often serving as a meeting place of slave trade for European buyers. Every two days over 1,000 slave were auctioned in exchange for items such as; umbrellas, whiskey and mirrors.</li><br>
+				<li><strong>1807: ABOLITION OF SLAVES TRADE AND BRITISH ADVANCEMENT</strong>
+				Oba Kosoko of Lagos(1845-1851), was the 12<sup>th</sup> Oba of Lagos who was dethroned by the British. Oba kosoko refused to abolish slave trade on the instruction of the British; so the British colluded with a usurper Oba Akintoye, who promised the British that he of abolishing slave trade if the British could help him ascend the throne. After he became king Lagos stopped sending taxes to the Benin Kingdom as a direct instruction from the British who claimed since the Benin Empire also paid tributes to the British Empire. This therefore gave the British more power and control in the affairs of the state and that ultimately spured the age of colonization.</li><br>
+				<li><strong>1914-1991: AMALGAMATION and SEAT OF POWER</strong>
+				The protectorate in Nigeria was amalgamated in 1914. Since then Lagos state has been the seat of power, up until 1991, when the Federal Capital Territory was moved to Abuja</li><br>
+				<li><strong>1947: MURITALA MUHAMMED AIRPORT</strong>
+				Murtala Muhammed International Airport(MMA) was by far the most famous landmark in Nigeria from the offset of the colonial era. This popularity was what earned it a place on the list. The MMA was established during the second world war. The MMA was originally named Lagos International airport, and was later renamed after a former Nigerian military head of state General Murtala Muhammed in the 1970s. The aiport serves over  6,273,545 passengers as at 2010.</li><br>
+				<li><strong>1960: INDEPENDENCE</strong>
+				Lagos hosted the Independence ceremony and welcomed dignitaries from all over the world. The ceremony which was arguably the greatest in the history of Nigeria expressed Lagos as the centre for all international and domestic presence, cutting across  all trade and business.</li><br>
+				<li><strong>1967: STATE CREATION</strong>
+				After independence, Nigeria system of government provided for regional system of state partitioning and Lagos was ceded with the former western regions along with cities like Badagry, Agege and ikeja. On May 27<sup>th</sup> 1967, the state creation and transition provisional decree No. 14, re-constructed the country into a federation of 12 states, with Lagos incuded.</li><br>
+				</ul>
+				<blockquote>
+					<p>"If you make it here, you can make it anywhere- Lagos waits for no one"</p>
+					<div>--Anonymous</div>
+				</blockquote>
+				<h3>Go here <a  id="tribute-link" href="https://en.wikipedia.org/wiki/History_of_Lagos#Names_of_Lagos" target="-blank">Wikipedia post </a>to read more amazing nuggets about the historical city of Lagos.</h3>
+			</div>
+		</div>
+		</div>
+	</div>
+</body>
+</html>
+
+CSS
+html,body{
+	font-family: Helvetica, Times New Roman;
+	text-align: center;
+	min-width: 260px;
+	color: black;
+}
+#main{
+	margin: 30px auto;
+	padding: 15px;
+	border:0px solid;
+	border-radius: 5px;
+	background: #808080;
+}
+#img-div{
+	margin:-5px;
+	margin-top: 20px;
+	max-width: 100%;
+	border:5px solid white;
+	background: white;
+}
+#img-caption{
+	margin: 15px;
+}
+#headline{
+	margin-top: 50px;
+	text-align: left;
+}
+ul{
+	margin: 10px;
+}
+blockquote{
+	font-style: italic;
+}
+.img-responsive{
+	max-width: 100%;
+ 	display: block;
+ 	height: auto;
+ 	margin-left: auto;
+ 	margin-right: auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
